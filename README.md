@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-ts&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-ts" /> </p>
 
-- 🔭 I’m currently working on **F1rst Digital Services (Santander ♨️)**
+- 🔭 I’m currently working on **Stone 🪨**
 
 - 🌱 I’m currently learning **AWS and Java**
 
