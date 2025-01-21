@@ -28,3 +28,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-ts&show_icons=true&locale=en&layout=compact" alt="matheus-ts" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-ts&" alt="matheus-ts" /></p>
+
+[![An image of @matheusts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matheusts)](https://holopin.io/@matheusts)
