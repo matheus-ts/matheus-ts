@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-ts&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-ts" /> </p>
 
-- 🔭 I’m currently working on **Stone 🪨**
+- 🔭 I’m currently working on **Itaú unibanco 🧡**
 
-- 🌱 I’m currently learning **AWS and Java**
+- 🌱 I’m currently learning **Java observability (datadog)**
 
 - 💬 Ask me about **Angular, React & Node**
 
